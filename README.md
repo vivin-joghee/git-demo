@@ -6,3 +6,4 @@ This is the first file in this repo.
 
 Text here
 next line
+next line after new file
